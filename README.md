@@ -25,9 +25,15 @@ web-based model viewers inside Flutter apps (mobile, web, desktop).
 
 ## Preview
 
-Add screenshot(s) or a short GIF in this section to showcase the app.
 
-![screenshot-placeholder](assets/screenshot.png)
+
+https://github.com/user-attachments/assets/60bd9403-e779-4eb5-9963-9ed6c7b30f22
+
+
+https://github.com/user-attachments/assets/8a9b10a7-f77e-44b9-99c1-363e7c3ae514
+
+
+
 
 ---
 
